@@ -1,0 +1,11 @@
+{
+  "schema": "vidljivo-website-content-v1",
+  "seo": {
+    "title": "Fictional studio | Vidljivo website test",
+    "description": "A fictional public website used only to verify authorized Vidljivo content changes."
+  },
+  "content": {
+    "heading": "Fictional website connector studio",
+    "summary": "This test page contains no actual business offer, customer data or merchandise."
+  }
+}
